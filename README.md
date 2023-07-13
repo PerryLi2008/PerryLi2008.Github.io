@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Use this template to create a portfolio quicky. 
+Use this template to create a portfolio of Perry Li's work.
 
 ### Installation
 
